@@ -1,0 +1,2 @@
+aiopath>=0.7.0
+aioshutil>=0.1.0 
